@@ -18,6 +18,8 @@ Let's take each of thes and try and understand what they mean. The next few sect
 #Precsion, recall and F Score
 We begin with something that you are would be quite familiar with. Precision, recall and F Scores are frequently used metrics in a range of supervised classification tasks. Precision in the context of classification is the True Positive/(True Positives + False Positives). It is usually taken as a measure of the accuracy of you forecast, i.e., out of all my predictions, how many of them have I predicted accurately. Recall is the reverse. It measures out of all my Positives, how many have I been able to predict accurately, i.e., True Positives/(True Positives + False Negatives). An example of its application to information retrieval: suppoe a search query leads to 30 pages being retrieved and out of these 20 are relevant. Further there is another 40 pages which are relevant that were not retieved. The Precision is 20/30=.66, Recall is 20/60 = .33 . According to wikipedia page on Precision and Recall: precision is "_how useful the search results are_", and recall is "_how complete the results are_".
 
+![image](https://user-images.githubusercontent.com/37128883/88649678-b4f0f580-d0e5-11ea-81c8-cad7a263695a.png)
+
 ![image](https://user-images.githubusercontent.com/37128883/88649050-2ed4af00-d0e5-11ea-8d1f-3c77a0d4e2ad.png)
 
 The F Score is the harmoic mean of Precision and Recall scores. 
