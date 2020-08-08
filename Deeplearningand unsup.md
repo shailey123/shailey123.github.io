@@ -1,7 +1,7 @@
-## Perspectives on Unsupervised Deeplearning
+# Perspectives on Unsupervised Deeplearning
  The supervised deep learnig problem has been solved to a fairly igh degree of effectiveness. However, the cost and difficulty of generating large volumes of labelled data represent a huge barrier to widespread deployment of these techniques to solve everyday problesm, business or otherwise. Increasingly the focus and emphasis of growth in deeplearning is shifting towards unsupervised learning. Examples of such applications include clustering similar examples, generating new examples, or determing how likely some point is. These kinds of tasks require some kind of unsupervised or semi supervised learning. 
  
- # Challenges with unspervised learning
+ ## Challenges with unspervised learning
  There are many challenges with unsupervised learning related to the high dimensionalityof teh random variables being modeled.  These can be broadly groued under two heads;
  1. Challenges related to statistical generalization: exponential increase in the number of statistical confiugrations with increase in dimensions
  2.The computional challenge due to the fact that many algorithms involve intractable computations that increase exponentially with number of dimensions. In partiucalr for probabilistic models this computational challege arises from the need to perfrom intractable inference or normalize the distribution
