@@ -8,7 +8,7 @@
    * Intractable inference: Very simply , this is guessing the value of variable 'a', given other variable 'b', with respect to model that captures the joint distribution of 'a, 'b', 'c'. To compute such conditional proabilites requires one to sum over the values of variable 'c'.
    * Intractable normalization constants: Normalizing constants of probability functions come up in infreence as well as learning. This is related to partition fucntions. (NB: these are tough concepts. i could not find much at the googling level. Will come back and update when get more 'tractable' material!)
  
- The Goodfellow et al(2015) go onto dsicsus various ways in which current deeplearning research is overcoming these problesm.thier suggested approaches ilcude:
+ The Goodfellow et al (2015) go onto discsus various ways in which current deeplearning research is overcoming these problesm.thier suggested approaches include:
  1. Aprroximation of intractable computations
  2. Avoiding these computations by appropriately designing methods to avoid them
 
