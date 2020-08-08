@@ -12,6 +12,6 @@ Well what I am going to try to do here is to decode what the book is trying to d
 
 3. I will be talking a little about applications as well. New ways in which we can deploy machine learning concepts.
 
-Do let me kow your feedback. Hope you enjoy!
+Do let me know your feedback. Hope you enjoy!
 
 Shailey
