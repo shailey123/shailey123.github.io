@@ -27,10 +27,12 @@ First let me overview the techniques that are there in this chapter:
 Okay first up:
 
 ## Linear Factor Model
-Explained in a slightly complex way. But simply, it is that an observed variable x is a linear compination of independet latent factors, h. 
+Explained in a slightly complex way. But simply, it is that an observed variable x is a linear compination of independent latent factors, h. 
 x= Wh + b+ noise
 
- h ∼ p(h) and \alpha
+ h ∼ p(h)
+ 
+ Now the 5 models that I listed above, most of these use this linear factor model adn different assumptins for noise or the way we model the prior function, p(h).
 
 # References
 1. https://ermongroup.github.io/cs228-notes/learning/latent/
