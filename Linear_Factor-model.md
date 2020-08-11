@@ -3,7 +3,8 @@ Chapter 13, Deep Learning, basically deals with something called Linear Factor m
 
 The Deep Learning book says:
 " Linear factor models are some of the simple probabilitic models models with latent variables".
-Apparently these models also form the basis of the approach used to develop Generative models, hence probably can't be skipped, unfortunately! Okay, spoiler alert: at this point, pretty well third paragraph of Ch 13, things start to get pretty heavy. From here on English is abandoned in favour of difficult mathematical notation. Here is where I come in: I shall attempt to decode this maths as far as I can. Be warned: at some point, descent into maths syntax is inevitable. 
+
+*Apparently these models also form the basis of the approach used to develop Generative models, hence probably can't be skipped, unfortunately! Okay, spoiler alert: at this point, pretty well third paragraph of Ch 13, things start to get pretty heavy. From here on English is abandoned in favour of difficult mathematical notation. Here is where I come in: I shall attempt to decode this maths as far as I can. Be warned: at some point, descent into maths syntax is inevitable.* 
 
 *A simpler explanation of latent variables picked up from Stefano Ermon's Stanford course on Probabilistic Graphical Models(CS228) - see references below. FYI this is the simplest explanation I could find after about 15 mintues of surfing. Other articles included gated Medium articles and some papers on Arxiv.* 
 
