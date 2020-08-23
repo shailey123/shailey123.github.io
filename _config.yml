@@ -3,3 +3,4 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 title: Deep Learning Textbook Explained
 Description: The reading journey for the  Deep Learning textbook 
+permalink: /blog/:year/:month/:day/:title
